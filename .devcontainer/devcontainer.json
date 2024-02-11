@@ -1,0 +1,5 @@
+{
+	"name": "orielly_DeepLearning",
+	"image": "mcr.microsoft.com/devcontainers/python:1-3.11-bookworm",
+	"postCreateCommand": "pip install --user -r requirements.txt",
+}
